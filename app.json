@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (PALCCOD-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -13,7 +13,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "Guru_787a3bdb-df86-4e05-a196-d8ec799e91be",
       "required": true,
       "value": ""
     },
@@ -39,7 +39,7 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "autoRead": {
@@ -49,7 +49,7 @@
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
+      "required": true,
       "value": "false"
     },
      "REMOVEBG_KEY": {
