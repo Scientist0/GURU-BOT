@@ -15,7 +15,7 @@ global.owner = [
 //global.pairingNumber = "255694242611" //put your bot number here
 
 global.mods = ['255694242611','255694242611'] 
-global.prems = ['255694242611', '255694242611', '255694242611']
+global.prems = ['255694242611', '255775999878', '255694242611']
 global.allowed = ['255694242611', '255694242611', '255694242611']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -52,9 +52,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.packname = 'ℙ𝔞𝔩𝔠𝔠𝔬d┃ᴮᴼᵀ' 
+global.author = '@ℙ𝔞𝔩𝔠𝔠𝔬d ツ' 
+global.menuvid = ''
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
