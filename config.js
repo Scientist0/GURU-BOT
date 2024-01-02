@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ JASON-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'ℙ𝔞𝔩𝔠𝔠𝔬d┃ᴮᴼᵀ' 
-global.author = '@ℙ𝔞𝔩𝔠𝔠𝔬d ツ' 
+global.packname = 'Jason┃ᴮᴼᵀ' 
+global.author = '@JAson' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
