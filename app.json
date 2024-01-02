@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (JASON-BOT)",
+  "name": "whatsapp-bot (ℙ𝔞𝔩𝔠𝔠𝔬d-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -15,7 +15,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "Guru_847265e5-5ce7-4643-a91e-2b793b7094e5"
+      "value": ""
     },
     "MODE": {
       "description": "mode public or private",
@@ -40,7 +40,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
@@ -54,8 +54,8 @@
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "SFVw1d6fQDAqS1u5czBpWK9t"
     }
     },
     "buildpacks": [
