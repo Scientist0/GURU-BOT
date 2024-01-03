@@ -15,7 +15,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Guru_7db47127-2201-4462-9076-781f38409e5c"
     },
     "MODE": {
       "description": "mode public or private",
