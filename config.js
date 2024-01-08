@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['255694242611', 'ℙ𝔞𝔩𝔠𝔠𝔬d ツ', true],
+  ['254795793246', 'Hadriana ツ', true],
   [''], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "255694242611" //put your bot number here
+//global.pairingNumber = "254795793246" //put your bot number here
 
-global.mods = ['255694242611','255694242611'] 
-global.prems = ['255694242611', '255775999878', '255694242611']
-global.allowed = ['255694242611', '255694242611', '255694242611']
+global.mods = ['254795793246','254795793246'] 
+global.prems = ['254795793246', '254795793246', '254795793246']
+global.allowed = ['254795793246', '254795793246', '254795793246']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ℙ𝔞𝔩𝔠𝔠𝔬d-ʙᴏᴛ'
+global.botname = 'Guru'
 global.premium = 'true'
-global.packname = 'ℙ𝔞𝔩𝔠𝔠𝔬d┃ᴮᴼᵀ' 
-global.author = '@ℙ𝔞𝔩𝔠𝔠𝔬d' 
+global.packname = 'gurubest' 
+global.author = '@Hadriana' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
